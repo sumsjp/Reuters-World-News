@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+yt-dlp
+markdown
+zhconv
+
+
