@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import random
 from dotenv import load_dotenv
 import smtplib
 from email.mime.text import MIMEText
@@ -27,7 +26,7 @@ readme_file = os.path.join(base_dir, 'README.md')
 csv_file = os.path.join(base_dir, 'src/video_list.csv')
 
 # === 設定頻道網址 ===
-channel_url = 'https://www.youtube.com/@HungyiLeeNTU/videos'
+channel_url = 'https://www.youtube.com/playlist?list=PLZhRxE9191zPN4uc07ytohaXcS13qEgm2'
 
 # === 載入環境變數 ===
 load_result = load_dotenv()
@@ -110,13 +109,10 @@ def download_script(df):
     max_downloads = 3
     
     # 優先字幕語言列表
-    preferred_langs = ['zh-TW', 'en']
+    preferred_langs = ['en']
     
     # 從最後一筆往前處理
-    lst = df.index
-    if random.random() < 0.5:
-        lst = reversed(lst)
-    for idx in lst:
+    for idx in reversed(df.index):
         if download_count >= max_downloads:
             logger.info(f"已達到最大下載數量 ({max_downloads})")
             break
@@ -289,17 +285,21 @@ def make_doc(filename: str, video_list: list):
     except Exception as e:
         logger.error(f"製作文件失敗 {filename}: {str(e)}")
 
-def create_readme_doc(max_idx, latest_date, batch_size=100):
-    content = f"""# YTLee ({latest_date})
+def create_readme_doc(max_idx, latest_date, batch_size=100, reverse=True):
+    content = f"""# Reuters World News ({latest_date})
 
 ---
 
 """
-    # 反向計算範圍
     end_batch = (max_idx - 1) // batch_size  # 最大的批次編號
+    if reverse:
+        # 反向計算範圍
+        rng = range(end_batch, -1, -1)
+    else:
+        rng = range(0, end_batch+1)
     
     # 從大到小遍歷
-    for i in range(0, end_batch+1):
+    for i in rng:
         start_idx = i * batch_size + 1
         end_idx = min((i + 1) * batch_size, max_idx)
         content += f"- [{start_idx:04d}~{end_idx:04d}](docs/{i:02d}-index.md)\n"
@@ -319,7 +319,7 @@ def create_doc(df):
     try:
         # 取得最大的 idx
         max_idx = df['idx'].max()
-        batch_size = 50
+        batch_size = 20
         
         # 計算需要產生幾個檔案
         num_batches = (max_idx + batch_size - 1) // batch_size  # 向上取整
@@ -406,7 +406,7 @@ def email_notify(new_df):
                 for receiver in receiver_emails:
                     # 為每個收件者建立新的郵件物件
                     msg = MIMEMultipart('alternative')
-                    msg['Subject'] = f"Dr. Eric Berg: {video['title']}"
+                    msg['Subject'] = f"Reuters World News: {video['title']}"
                     msg['From'] = f"no-reply <{sender_email}>"
                     msg['To'] = receiver
                     msg.attach(MIMEText(html_template, 'html'))

@@ -3,5 +3,5 @@ python-dotenv
 yt-dlp
 markdown
 zhconv
-
-
+requests
+openai
