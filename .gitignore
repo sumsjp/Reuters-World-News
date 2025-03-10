@@ -5,6 +5,7 @@ __pycache__/
 
 .env
 *.env
+pyvenv.cfg
 .DS_Store
 tmp.txt
 bin/
