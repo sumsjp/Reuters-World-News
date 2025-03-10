@@ -413,7 +413,7 @@ def email_notify(new_df):
                     # 為每個收件者建立新的郵件物件
                     msg = MIMEMultipart('alternative')
                     msg['Subject'] = f"Reuters World News: {video['title']}"
-                    msg['From'] = f"no-reply <{sender_email}>"
+                    msg['From'] = f"Reuters World News <{sender_email}>"
                     msg['To'] = receiver
                     msg.attach(MIMEText(html_template, 'html'))
                     
