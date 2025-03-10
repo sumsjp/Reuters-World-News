@@ -1,0 +1,319 @@
+this week we saw a huge leap in AI
+technology it's caught the tech Titans
+in the US by surprise and freaked out
+investors since it threatens the
+underpinnings of the entire
+economy deep seek the chinese-owned AI
+company says it's made huge strides with
+far fewer resources than its Western
+competitors on this weekend episode of
+rers world news our Tech correspondents
+tell us how this happened and what
+happens next I'm your host Jonah
+[Music]
+green I'm joined now by Tech
+correspondents Jeffrey daston and Anna
+Tong hello you two thanks for joining me
+today thanks for having us thank you who
+is deep seek and how did they do this
+deep seek came out of a hedge fund
+actually in China was a quantitative
+hedge fund focused on using mathematical
+algorithms for trading as opposed to
+human analysis and it had been around
+since
+2015 when its founder someone named
+Leong one fun said to his followers on
+China's WeChat that he was going to
+focus on building AGI so AGI refs to
+artificial general intelligence it's the
+stated goal of the major usai providers
+like openai and anthropic and so so what
+what was really really interesting about
+this announcement in April 2023 that
+Leong would create this AGI Focus
+company we now know as deep seek is that
+he hadn't come from the major Tech
+players in China he hadn't come from
+Alibaba or bite dance he was at an elite
+University when he was 17 he majored in
+electronics communication engineering
+but he had come from obscurity relative
+to for instance the Jack Moss of the
+world and here now fast forward almost
+two years later he with deep seek has
+completely rocked the world of AI and
+Global markets at the same time what's
+crazy is kind of like the Whiplash that
+we're experiencing in the economy right
+now just two weeks ago Sam mman Larry
+Ellison and Moshi son stood up with
+President Trump and said they were going
+to invest up to $500 billion into
+infrastructure that was essentially only
+for open Ai and then just a week after
+that deep seek released its models which
+then made the market and business people
+think that you know you didn't really
+need to have a huge investment in AI
+infrastructure and that caused Nvidia to
+lose hundreds of billions of dollars in
+market value so I think that just like
+the amount of whiplash that the market
+is experiencing that AI investors are
+experiencing right now is is crazy
+because it's gone from like you know we
+need $500 billion of investment to maybe
+we don't need anything at all to now a
+lot of uncertainty around what's going
+to happen and I think a lot of investors
+right now are kind of looking around to
+try to figure out what they should do if
+they should pull back from AI
+Investments or if they should double
+down because you deep seek means that AI
+will be more freely available to
+everyone so I don't think anyone knows
+what's going to happen and so how are
+the other AI companies responding to all
+this the response of the USA companies
+was interesting because they
+acknowledged how powerful deep seeks
+model was and how cost effective while
+at the same time downplaying the
+concerns that that one might have from
+this so to give an example the CEO of
+anthropic one of the top AI companies
+backed by Google backed by Amazon his
+name is jario amod and he published A
+Very Long blog post basically saying
+that what the US has to do and we can
+talk about this later is just keep it
+strategy with export controls of chips
+and preventing them from getting to
+China e he thinks they're working
+actually but the the subtext to all this
+what was actual response to deep seek
+was that we were according to mod day at
+this we're at this interesting crossover
+point where it's actually possible with
+not a ton of money to produce really
+high quality results and that that would
+change and you actually will need a ton
+of money and high-end chips going
+forward so he was he was basically
+saying that that deep seek had done
+something very impressive engineering
+wise and it had done clever things with
+various AI research techniques to very
+efficiently make a model that could do
+impressive reasoning and that was almost
+to be expected based on the way this
+technology was progressing the cost
+savings we've seen month after month and
+he was kind of comparing deep seeks
+models to his own anthropics own models
+from months prior and saying this is
+exactly what we would expect to happen
+we would expect it to be done so well
+and so cheaply and we're at this
+crossover point where that's possible
+now but if you fast forward some number
+of months some number of years you
+actually will need huge numbers of
+high-end chips and deep seek won't be
+able to keep up so he he actually
+presented this this image of Cal and
+certainty of course that's doing what it
+is and and really what's surprised him
+was just that it had come from China not
+not that someone had produced results
+like deep seeks at all so H I think that
+is indicative of maybe how the US
+company's working confident but still
+concerned from a geopolitical risk
+standpoint yeah that was kind of the
+heart of the panic this week right if if
+a company like this can do so much with
+so little then that kind of overturns
+all of our assumptions about how
+valuable a company like Nvidia is or how
+much you need to invest in a company
+like open AI but what you're saying is
+that maybe that's not the case going for
+forward we saw nvidia's stock drop 177%
+at one point on Monday and certainly the
+question that people were asking was do
+we need to spend so much money on
+nvidia's highest send chips if this
+company in China without access to them
+was able to reproduce these impressive
+results without those chips and
+obviously Nvidia stock has paired some
+of those losses now and I think it is an
+open question going back again to what
+some of the usai leaders are saying this
+is a temporary moment in time it's it's
+the case that going forward to keep
+scaling up these these models and to
+keep getting better more intelligent
+results that get us to this future that
+the Deep seek itself claims it once
+which is artificial general intelligence
+really human equal intelligence M then
+you will need still more powerful inid
+chips and L of them tens of billions of
+dollars if not a hundred billion dollars
+or more and that actually suggests that
+Nvidia still has a good business going
+forward and Anna you've been talking to
+a lot of sources about this what are
+investors thinking right now for sure
+like you know MSA Yoshi son from
+SoftBank is is certainly doubling down
+on open AI so he's not only investing in
+Stargate which is the joint venture
+that's going to be building data centers
+and purchasing chips but he's also
+making an up to $40 billion investment
+into open AI for-profit company which
+changes on whether an open AI can
+convert from a nonprofit to a for-profit
+company so you know there's certainly
+investors like him that are really
+really doubling down on the other hand
+we're hearing also kind of Rumblings
+from investors that maybe think that
+they are Overexposed in Ai and want to
+dialate back so I think we're we're
+hearing both right now have you heard if
+any of the American companies are
+changing course at all on on their
+strategies or it does it seem like what
+the anthropic CEO is saying that they're
+just staying the course and using this
+as a way to get people to want to spend
+even more on on American AI to to stay
+ahead next week there is going to be a
+slew of tech earnings and there were
+Tech earnings this this week too what
+we're hearing so far is that um
+companies are staying the course M so in
+earnings Mark Zuckerberg said doubled
+down and said they are going to continue
+investing in AI infrastructure same with
+Microsoft so I think that thus far
+companies are at least publicly saying
+that they are excited about deep seek
+and that means that there's going to be
+more AI for everyone because right now
+getting AI out into the world into the
+hands of consumers has been extremely
+limited by the number of gpus that are
+available and so there's a lot of
+excitement now that with the efficiency
+gains that deep seek has proved that
+there will be more AI available for
+everyone and can you explain what gpus
+are a GPU is a computer chip so that
+specializes in running Ai and also
+training AI models MH and it stands for
+a graphics Processing Unit because
+Nvidia created this chip actually for
+video games and bunch of AI researchers
+realized more than a decade ago that the
+way it processed computations and parall
+well different from how computer
+processing units tpus did it was
+actually perfect for the kind of AI that
+the world and and those scientists are
+now developing this news comes at a very
+interesting time the US is trying to ban
+Tik Tock a Chinese owned company and
+that's been put on hold by President
+Trump despite years of lawmakers warning
+that the app is a threat to National
+Security and that China is using it to
+corrupt the minds of our young people
+and now we have China potentially
+dominating the AI space right so there
+have been reports of yan fun the Deep
+seek founder meeting with senior
+government officials in in China and
+clearly his presence there is an
+indication that China as as it has said
+for years understands the huge economic
+value of AI and what's interesting if
+you talk to or hear from the American AI
+Founders it's not that they don't want
+China to have the benefits of AI they
+they want those to be distributed across
+the world it's just that there is
+concern in the United States about the
+government model of China being in the
+driver's seat as opposed to the
+Democratic model in the US so there's
+this this idea however alarmist as it
+might be that if the US isn't the first
+to get to Ai and in particular to get to
+this artificial general intelligence
+this way more powerful type of
+technology that we don't have yet then
+there could be great benefits to China's
+military there could be a reshaping of
+the geopolitical world order that sort
+of thing so there's this belief that the
+US has to get there first and this is
+the first real challenge to the
+likelihood of that and so I think that's
+why people at least in government
+circles and National Security circles in
+the US are alarmed and so what does this
+mean for the race to dominate AI what
+does the US do next year what we're
+starting to see are calls for still more
+export controls on chips which there
+already are a lot but the idea is is to
+maybe prevent some of those lower-end
+types of Nvidia chips from getting to
+China the ones that are already there
+but preventing further sales of them
+because clearly the Deep seek model
+shows that even some of those can be
+impactful for Building AI in China and I
+think Beyond export controls there still
+is a lot of head scratching what's the
+defensive what's the offensive move for
+the US I think as Anna mentioned having
+Trump present or lead into this
+announcement of this hundred billion do
+up to $500 billion do Stargate
+announcement involving data centers for
+open aai suggests that there's this
+desire aside from just preventing
+China's access to chips there's this
+desire to let the US industry run freely
+so I think the expectation is that some
+of the requirements and regulations
+suggested already by the Biden AI
+executive order which Trump has gotten
+rid of that will be more of the future
+that there will be less handholding less
+less burdensome regulation just to allow
+us companies to win that race as fast as
+[Music]
+possible thanks to Anna and Jeff for
+coming on and explaining all of this to
+Us rers world news is produced by Gail
+Isa David Spencer Sharon R Garson
+Christopher Wall Jasper and me Jonah
+green our senior producers are Tara Oaks
+and Carmel KMS our executive producer is
+Leela dzer musical composition and sound
+design by Josh
+summer we'll be back on Monday with our
+daily headline show to make sure you
+never miss an episode click follow on
+your favorite podcast platform or
+download the rers app
+[Music]
