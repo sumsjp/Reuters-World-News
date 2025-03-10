@@ -435,5 +435,5 @@ if __name__ == '__main__':
     download_script(df)
     summerize_script()
     create_doc(df)
-    # email_notify(new_df)
+    email_notify(new_df)
     logger.info("更新程序完成")
