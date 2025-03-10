@@ -649,7 +649,7 @@
 </details>
 
 <details>
-<summary>286. Gaza, special counsel report, Trump’s inherited economy, Russian oil and Hegseth</summary><br>
+<summary>286. [2025-01-14] Gaza, special counsel report, Trump’s inherited economy, Russian oil and Hegseth</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kkLgjDBECm0" target="_blank">
     <img src="https://img.youtube.com/vi/kkLgjDBECm0/maxresdefault.jpg" 
@@ -658,11 +658,35 @@
 
 # Gaza, special counsel report, Trump’s inherited economy, Russian oil and Hegseth
 
+### 文章重點整理
 
+#### 1. 主要事件
+- **制裁俄羅斯**：美國新制裁針對俄羅斯石油生產商及「幽靈艦隊」，目標是切斷俄羅斯爲烏克蘭戰爭提供資金的渠道。  
+- **特朗普與普京會晤**：預計特朗普將利用這些制裁作爲與普京談判的籌碼，可能在會晤中提出解除制裁以換取俄方讓步。  
+- **佩特·海克提名聽證會**：特朗普提名的五角大樓負責人候選人佩特·海克因爭議性言論和行爲受到參議員質詢。
+
+#### 2. 次要事件
+- **俄烏和平倡議**：特朗普致力於結束烏克蘭戰爭，並計劃停止對烏軍事援助，試圖通過與普京的談判實現這一目標。  
+- **油價上漲影響**：美國制裁可能導致部分俄羅斯石油客戶轉向其他國家，進而推高全球油價，但通脹已開始緩解，消費者仍需承擔更高能源成本。  
+- **海克的背景問題**：除提名聽證會外，海克過去在Fox News和退伍軍人組織中的行爲受到質疑，包括種族 remarks 和財務不當行爲指控。
+
+#### 3. 背景與影響
+- **制裁俄羅斯的目的**：通過限制俄羅斯石油出口和切斷資金來源，削弱其在烏克蘭戰爭中的持續能力。  
+- **特朗普的外交策略**：利用即將卸任前的機會重塑美國對俄政策，尋求結束衝突並減少對烏援助，以提升自身政治形象。  
+- **海克提名的政治影響**：若獲確認，海克可能推動五角大樓政策的變化，但其爭議性背景可能導致內部管理和決策受到質疑。
+
+#### 4. 相關聲明或反應
+- **特朗普團隊**：尚未直接回應制裁問題，但暗示這些措施可作爲談判籌碼。  
+- **參議員回應**：民主黨預計將在海克聽證會上對其言論和行爲提出嚴厲質詢，強調其領導能力和道德標準的重要性。  
+
+#### 5. 今後的展望/下一步行動
+- **制裁執行情況**：觀察中國和印度等主要俄羅斯石油客戶的反應及尋找替代供應的情況。  
+- **俄烏談判進展**：特朗普與普京的會晤結果將影響未來美俄關係及烏克蘭局勢的發展。  
+- **海克提名結果**：聽證會後，參議院將決定其是否適合擔任五角大樓負責人，可能對美國國防政策產生重大影響。
 </details>
 
 <details>
-<summary>285. Ukraine and North Korea, LA fire wind warning and space race delays</summary><br>
+<summary>285. [2025-01-13] Ukraine and North Korea, LA fire wind warning and space race delays</summary><br>
 
 <a href="https://www.youtube.com/watch?v=xb9Ic5livJ4" target="_blank">
     <img src="https://img.youtube.com/vi/xb9Ic5livJ4/maxresdefault.jpg" 
@@ -671,11 +695,41 @@
 
 # Ukraine and North Korea, LA fire wind warning and space race delays
 
+### 消息來源整理：
 
+#### 1. **藍色起源(New Glenn火箭)發射延誤**
+   - 新格萊恩火箭(New Glenn)的首次亮相因技術問題而延遲一天。
+   - 這是傑夫·貝佐斯(Jeff Bezos)旗下公司-blue origin-競逐衛星發射市場的重要一步。
+   - SpaceX的Starship火箭目前尚未成功進行第七次測試，但也被安排在本周稍晚時間。
+
+#### 2. **SpaceX與NASA的火星夢想**
+   - 特朗普政府時期曾提出使用Starship進行人類火星探險，目標為2028年。
+   - 這項任務面臨技術與時間上的挑戰。
+   - NASA的阿耳忒彌斯計劃(artemis program)旨在利用月球作為前往火星的跳板。
+
+#### 3. **烏克蘭侵入kremlimskiy山口(Krasnodar Kuban)地區**
+   - 約翰·魯特琴科(John Luttrell)指出，烏kraine的此次行動可能是為提升談判籌碼。
+   - 俄羅斯在2024年收復了更多土地，在戰事中取得優勢。
+   - 可能於2025年開始的和平談判受此行動影響。
+
+#### 4. **美國總統選舉與太空競賽**
+   - 唐納德·特朗普(Donald Trump)的再次參選可能改變NASA的方向，強調火星探險。
+   - NASA的SLS火箭未來定位與 SpaceX的Starship計劃如何並行仍待觀察。
+
+#### 5. **印度果阿大壩事故**
+   - 果阿州大壩倒塌，導致至少兩人喪生，數十人失蹤。
+   - 這起事故引發對基礎設施安全的關注。
+
+#### 6. **恆河點燈節(Mahakumbha Mela)**
+   - 羅摩佳(Ramajai)報導，全球約200萬印度教徒參加恆河點燈節。
+   - 朝聖者在寒冷的河水裡浸浴，象徵淨化與宗教虔誠。
+
+### 總結：
+以上消息涵蓋了太空探險、政治軍事動態、自然災害及大型宗教活動等多個層面，展示當前全球的重大事件與話題。
 </details>
 
 <details>
-<summary>284. Los Angeles wildfires: What we know so far</summary><br>
+<summary>284. [2025-01-11] Los Angeles wildfires: What we know so far</summary><br>
 
 <a href="https://www.youtube.com/watch?v=mI2umXmRfEE" target="_blank">
     <img src="https://img.youtube.com/vi/mI2umXmRfEE/maxresdefault.jpg" 
@@ -684,7 +738,35 @@
 
 # Los Angeles wildfires: What we know so far
 
+### 1. 主要災害事件：
+- **地點**：加州洛杉磯附近的Malibu和Santa Monica山區。
+- **規模**：大火肆虐數千畝土地，造成重大破壞。
+- **影響範圍**：毀壞 Residential 山莊、商業設施及生態環境。
 
+### 2. 火災帶來的主要影響：
+- **居民家園破壞**：多戶民宅被燒燬，部分為名人豪宅，但也有許多普通家庭受災。
+- **經濟損失重大**：估計為加州史上最嚴重的災難之一。
+- **生態環境受威脅**：燒毀森林、野生動物棲息地及歷史建築。
+
+### 3. 對洛杉磯市的影響：
+- **旅遊景點破壞**：Malibu海灘的小漁 Shack 被燒燬，影響當地特色風光。
+- **城市結構改變**：大火改變了該地區的地理面貌和生活方式。
+- **心理影響**：居民面對家園被毀，感到悲痛和無助。
+
+### 4. 對娛樂產業的影響：
+- **拍攝地點可能移至他處**：災害或促使部分影視製作遷移到其他地方。
+- **工作機會減少**：災區餐廳、景觀維護等工作崗位受損，造成經濟蕭條。
+
+### 5. 社會層面的影響：
+- **貧富差距顯現**：富裕名人較易重建家園，而普通居民則需更多援助。
+- **人道主義關懷**：災害引發社會各界對受災者的關注與救援行動。
+
+### 6. 將來展望：
+- **城市復建挑戰**：重建需大量時間和資金，且需考慮未來抗火能力。
+- **社區凝聚力量**：災後重建可能增進當地居民的團結合作。
+
+### 總結：
+本次大火不僅造成重大物質損失，也對生態、經濟及社會結構帶來深遠影響。洛杉磯市政府和居民將面臨復建與適應全新環境的重大挑戰。
 </details>
 
 <details>
