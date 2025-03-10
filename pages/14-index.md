@@ -241,7 +241,7 @@
 </details>
 
 <details>
-<summary>295. Birthright ban blocked, Trump's federal purge, ICC Taliban warrants, BoJ and the Oscars</summary><br>
+<summary>295. [2025-01-24] Birthright ban blocked, Trump's federal purge, ICC Taliban warrants, BoJ and the Oscars</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7nBTL-nmFWo" target="_blank">
     <img src="https://img.youtube.com/vi/7nBTL-nmFWo/maxresdefault.jpg" 
@@ -250,11 +250,47 @@
 
 # Birthright ban blocked, Trump's federal purge, ICC Taliban warrants, BoJ and the Oscars
 
+### 經濟與政治
 
+- **貿易威脅與反應**  
+  - 加拿大因美國總統特朗普的貿易威脅和將加拿大形容為「第51州」的言論，激發了國內民族主義情緒。  
+  - 一名創業者設計了一頂印有「加拿大不容出售（Canada is not for sale）」字樣的帽子，銷售量達到數萬頂。
+
+### 法律與司法
+
+- **國際刑事法院發出逮捕令**  
+  - 國際刑事法院（ICC）檢察官申請逮捕塔利班兩名領導人，指控他們自2021年阿富汗被塔利班接管後，涉嫌犯下針對女性和兒童的迫害罪行。  
+  - 此為 ICC 18年調查以來首次公開尋求逮捕令，焦點放在性別迫害上，特別是針對婦女和女孩的犯罪。
+
+### 文化與娛樂
+
+- **奧斯卡提名**  
+  - 西班牙語音樂電影《艾米麗婭》（Amelia）領跑，共獲得13項提名。  
+  - 其他獲獎影片包括《悲慘世界》和《醜聞》，各獲10項提名。  
+  - 尼可ôle·基德曼和安吉妮拉·朱利因主演的電影未入圍而被視為重大遺珠。
+
+- **Netflix與奧斯卡**  
+  - Netflix尚未贏得最佳影片獎，過去曾有《羅馬》和《愛爾蘭人》等作品入圍。  
+  - 一些電影界人士對Netflix的.streaming模式持保留態度，認為其限時影院放映策略可能影響公信力。
+
+### 社會與環境
+
+- **洛杉磯大火與奧斯卡舉辦**  
+  - 洛杉磤 wildfires肆虐，影響了好萊塢的慶祝活動，但 academy 設定仍然按計劃舉行。  
+  - 組織方強調希望展示電影工業的韌性，並向外界傳達洛杉磯和影業將復甦的信息。
+
+### 其他
+
+- **土耳其政治動態**  
+  - 土耳其總理耶iller警告稱，若瑞典加入北約，土可能恢復對德國的武器供應禁令。  
+  - 此舉可能加劇土耳其與西方盟友之間的緊張局勢。
+
+- **俄羅斯能源制裁**  
+  - 美聯邦政府宣布禁止美國企業與俄羅斯石油公司Rosneft及其子公司進行交易，進一步限制俄羅斯石油出口能力。
 </details>
 
 <details>
-<summary>294. New LA fire, Davos and DEI, Trump's immigration threats, tariffs-for-tax cuts and Syria’s police</summary><br>
+<summary>294. [2025-01-23] New LA fire, Davos and DEI, Trump's immigration threats, tariffs-for-tax cuts and Syria’s police</summary><br>
 
 <a href="https://www.youtube.com/watch?v=T-mMIrn3E8c" target="_blank">
     <img src="https://img.youtube.com/vi/T-mMIrn3E8c/maxresdefault.jpg" 
@@ -263,11 +299,47 @@
 
 # New LA fire, Davos and DEI, Trump's immigration threats, tariffs-for-tax cuts and Syria’s police
 
+### 標題：每日 headline 經濟、政治與社會焦點（日期）
 
+---
+
+#### [1. 國際貿易與稅制改革]
+- 美國特朗普政府擬擴大使用關稅作為籌措資金手段，以延長新聞 tax cuts。
+- 商業界與共和黨議員對此措施反應分歧，部分擔心可能影響消費市場。
+
+#### [2. 中東局勢：敘利亞與黎巴嫩]
+- 敘利亞新當局試圖填補安全真空，重新建構警察部隊，並融入伊斯蘭教導以提升道德。
+- 黎巴嫩安全部門打擊isis，成功逮捕一批嫌疑人，展現反恐決心。
+
+#### [3. 同性婚姻與動物權利]
+- 泰國成為東南亞首個合法承認同性婚的國家，預計將有近千對カップル登記結婚。
+- 美國科羅拉多州法院裁定動物無資格提起訴訟要求釋放，五頭非洲象需留在該州動物園。
+
+#### [4. 司法與法律案件]
+- 美國最高法院駁回動物權利團體的訴訟，否認動物具有人權地位。
+- 俄羅斯經濟問題引人注目，消息人士透露普京對 wartime economy 的扭曲表示擔憂。
+
+#### [5. 全球政治與安全]
+- 反恐行動：黎巴嫩安全部門成功逮捕isis嫌疑人，展現打擊恐怖主義的決心。
+- 司法改革：敘利亞新當局試圖通過伊斯蘭教導重塑警察部隊的道德與正義感。
+
+#### [6. 經濟與金融]
+- 特朗普政府擬擴大關稅使用範圍，以籌措資金延長 tax cuts，引起商界和議員的不同反應。
+- 俄羅斯經濟因wartime扭曲受到普京關注，凸顯其對經濟穩定的憂慮。
+
+---
+
+### [7. 社會與文化]
+- 泰國實現歷史性突破，成為東南亞首個承認同性婚的國家，展現社會 progressive 進步。
+- 美國科州法院裁定動物無資格提起訴訟，五頭非洲象仍需留在動物園。
+
+---
+
+此整理涵蓋了當天的關鍵事件，強調各領域的最新發展與挑戰。
 </details>
 
 <details>
-<summary>293. Trump's early whirlwind: Jan 6 pardons, WHO exit and DEI targeted</summary><br>
+<summary>293. [2025-01-22] Trump's early whirlwind: Jan 6 pardons, WHO exit and DEI targeted</summary><br>
 
 <a href="https://www.youtube.com/watch?v=JLAOwhATHng" target="_blank">
     <img src="https://img.youtube.com/vi/JLAOwhATHng/maxresdefault.jpg" 
@@ -276,11 +348,39 @@
 
 # Trump's early whirlwind: Jan 6 pardons, WHO exit and DEI targeted
 
+### 美國政治與社會事件
 
+#### 特朗普政府行動與爭議
+
+- **January 6th 事件後續影響**  
+  - 美國海岸警衛隊女司令官琳達·法根因領導力問題被解職，有報道稱其關注多樣性、公平性和包容性（DEI）是原因之一。
+  - 特朗普籤署行政命令，限制聯邦機構的DEI計劃，可能對承包商和教育機構產生影響。
+
+- **退出世界衛生組織**  
+  - 美國宣布退出世界衛生組織（WHO），此舉引發全球健康專家擔憂，認爲這將削弱全球公共衛生應對能力，並可能影響美國自身在疫情中的響應。
+  - 美國需提前一年通知並支付費用才能正式離開，期間全球健康領導者試圖說服特朗普政府改變決定。
+
+#### 國際與公共衛生
+
+- **全球健康的挑戰**  
+  - 美國退出WHO可能導致全球健康項目資金減少，影響疾病防控和衛生應急響應。
+  - WHO高度依賴美國資助，尤其是針對艾滋病毒、結核病等項目的資金支持可能受到威脅。
+
+### 政治動態與公衆輿論
+
+#### 特朗普的支持率
+
+- **特朗普的支持率上升**  
+  - 根據路透社-皮尤民調，特朗普上任初期的支持率爲47%，高於其第一任期內的大部分時間。
+  - 這一現象可能與其近期的政策行動和言論有關。
+
+### 總結
+
+以上整理涵蓋了當前美國政治和社會的主要事件及其影響，包括政府決策、國際關係變化以及公衆輿論動態。
 </details>
 
 <details>
-<summary>292. A new American chapter, Trump’s pardons and executive orders, and border crackdown</summary><br>
+<summary>292. [2025-01-21] A new American chapter, Trump’s pardons and executive orders, and border crackdown</summary><br>
 
 <a href="https://www.youtube.com/watch?v=69N3MfFjZ2I" target="_blank">
     <img src="https://img.youtube.com/vi/69N3MfFjZ2I/maxresdefault.jpg" 
@@ -289,11 +389,58 @@
 
 # A new American chapter, Trump’s pardons and executive orders, and border crackdown
 
+### 經濟與市場反應
 
+1. **貨幣市場波動**  
+   - 投資者對特朗普再次出任總統的預期已成為現實，導致貨幣市場出現波動。  
+   - 特朗普的 inaugural speech 中未提及 tariff 脅，	initially 誤導投資者，但隨後宣布對加拿大和墨西哥徵收 25% 的關稅，引發 currency 的大幅波動。
+
+2. **邊境政策影響**  
+   - 美國 Customs and Border Protection (CBP) 已暫停「cbp1」程序，該程序允許在墨西哥的移民預約合法入境並申請庇護。  
+   - 此舉導致大量移民措手不及，擔心未來的處境不 clarity。
+
+### 政治與政策
+
+1. **邊境危機宣佈**  
+   - 特朗普宣佈美國墨西哥邊境進入國家緊急狀態，並立即開始實施限制移民措施。  
+   - 此舉引發對移民政策和邊境安全的廣泛討論。
+
+2. **赦免與 pardons**  
+   - 維生素拜登在卸任前頒布了一系列 pardon，包括針對特朗普政府可能的報復行動中涉及的人物，如拜登家族成員及 January 6 調查委員會成員。  
+   - 特朗普批評此舉，並暗示將採取反制措施。
+
+3. **行政命令與政策調整**  
+   - 特朗普簽署行政命令，暫緩 TikTok 禁令 75 天，並指示研究其安全問題。  
+   - 馬斯克的 hand gesture 在 inauguration 式中引發爭議，被批評為納粹主義的象徵。
+
+### 國際反應
+
+1. **俄中領導人會晤**  
+   - 俄羅斯總統普京與中國國家主席習近平舉行 video call，討論進一步深化雙邊戰略合作。  
+
+2. **其他國際事項**  
+   - 巴勒斯坦人在加沙地帶的 rubble 中搜尋遺體，屍體可能受污染，影響救援工作。  
+   - 英國王室プリンス・ハリーが、ローレンス・ルーモアック社に対して illegal activities を行ったとする訴訟の初公聞を開く。
+
+### 技術與創新
+
+1. **TikTok 與技術政策**  
+   - 特朗普行政命令的發布，顯示政府對科技平臺的持續關注，特別是數據安全和國安問題。  
+
+2. **馬斯克的手勢爭議**  
+   - 馬斯克在就職典禮上的手勢被批評為政治敏感，引發輿論 논란。
+
+### 經濟與貿易
+
+1. **邊境政策的經濟影響**  
+   - 民政策的突然變更可能對墨西哥和美國邊境地區的經濟活動造成短期衝擊。  
+
+2. **市場反應**  
+   - 投資者對特朗普政府的政策持謹慎態度，特別是其貿易保護政策可能引發的國際摩擦。
 </details>
 
 <details>
-<summary>291. Trump inauguration countdown, Gaza hostages release and TikTok restored</summary><br>
+<summary>291. [2025-01-20] Trump inauguration countdown, Gaza hostages release and TikTok restored</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3umwHhGjCnI" target="_blank">
     <img src="https://img.youtube.com/vi/3umwHhGjCnI/maxresdefault.jpg" 
@@ -302,11 +449,56 @@
 
 # Trump inauguration countdown, Gaza hostages release and TikTok restored
 
+### 重點整理
 
+---
+
+#### 1. **TikTok 美國業務恢復**
+- **背景**：美國政府曾要求 TikTok 在2021年1月19日前將應用程序出售給美國公司，否則將面臨禁令。
+- **進展**：
+  - 特朗普政府在最後時刻宣布延長截止日期至3月4日，並允許 TikTok 恢復在美國的運營。
+  - TikTok CEO 羅永浩計劃出席特朗普的就職典禮。
+- **爭議**：此舉引發保守派共和黨人的不滿，認爲對華政策過於寬鬆。
+
+---
+
+#### 2. **特朗普及其家族進軍加密貨幣**
+- **動態**：
+  - 特朗普推出了自己的加密貨幣「Trump Digital Token」，市場價值已超過110億美元。
+  - 米拉納·特朗普也推出了自己的加密貨幣，市值接近20億美元。
+- **影響**：此舉引發了加密社區的擔憂，認爲這可能削弱傳統加密貨幣的嚴肅性。
+
+---
+
+#### 3. **Costco 工人投票支持全國大罷工**
+- **情況**：
+  - Costco 的 Teamsters 工會在全美範圍內投票決定發起罷工，以推動新合同談判。
+  - 目前正在進入最後階段的協商，最終期限爲1月31日。
+- **影響**：罷工可能導致供應鏈中斷，對零售行業造成衝擊。
+
+---
+
+#### 4. **哥倫比亞內亂**
+- **衝突升級**：
+  - 政府與 ELN（民族解放軍）之間的和平談判破裂，導致至少80人死亡，數千人流離失所。
+  - ELN 指控前 FARC 反叛軍成員重新武裝。
+- **影響**：局勢惡化可能進一步威脅哥倫比亞的社會穩定。
+
+---
+
+#### 5. **美國野火受災者放棄重建**
+- **挑戰**：
+  - 加利福尼亞州的野火災後倖存者因有毒灰燼和高昂的重建成本而選擇放棄重建家園。
+- **影響**：這可能導致當地經濟長期受損，社區結構發生變化。
+
+---
+
+### 總結
+以上內容涵蓋了當前美國及國際社會的主要熱點事件，包括科技、政治、經濟和社會等多個領域。
 </details>
 
 <details>
-<summary>290. Trump’s inauguration and beyond</summary><br>
+<summary>290. [2025-01-18] Trump’s inauguration and beyond</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-HMAVqppuIE" target="_blank">
     <img src="https://img.youtube.com/vi/-HMAVqppuIE/maxresdefault.jpg" 
@@ -315,7 +507,30 @@
 
 # Trump’s inauguration and beyond
 
+### 1. 羅姆尼世界ニュースの番組內容概要  
+- 番組は、ワシントンDCでのトランプ前大統領の動向を中心に、米國政治の最新ニュースを網羅的に報道する。  
+- トラックターとメディアとの関係、共和黨の將來、政策予測など幅広いテーマを取り上げる。  
+- 収録はスタジオ內で行われ、番組終盤には出演者からのメッセージや 앞으로の展望が語られる。  
 
+### 2. トラックター再選後の政策と予測  
+- トラックターが再選後は、自由度が増し、より大膽な政策を打ち出す可能性がある。  
+- 社會保障制度（ソーシャルセキュリティーやメディケア）の改変に制限される一方、移民政策や経済対策での強硬姿勢が予想される。  
+- トラックターの後継者選びも重要で、副大統領や共和黨候補者の動向が注目される。  
+
+### 3. ブームのホテル売卻と今後について  
+- トラックターが所有していたワシントンDCのホテル（舊トランプインターナショナルホテル）は売卻されたことで、マaga支持者にとって重要な拠點を失った。  
+- 現在は「waldorf astoria」として運営され、トラムpraの訪問が制限される見込みがある。  
+- トラックター側がホテルの権利を再取得する可能性も浮上している。  
+
+### 4. トラックターとメディアの関係  
+- トラックターはメディアに対して敵対的な姿勢をとり、ネガティブ報道を行うOutletへの報復やアクセス制限をちらつかせている。  
+- メディア側は 사실に基づいた報道に努め、トランプ政権の政策とその影響を公正に伝える責務を擔うとしている。  
+- 白_hotルームの再編が行われれば、保守メディアへの傾斜が加速する可能性がある。  
+
+### 5. トラックターと共和黨の將來  
+- トラックターは共和黨の中心的存在であり、今後の政策や候補者の選定に多大な影響を及ぼすと予測される。  
+- トラックター自身の健康狀態や支持基盤の維持が課題だが、彼の政治的影響力は依然として大きい。  
+- 共和黨內部では(trackle派と他の勢力との対立も深刻化する見込みがある。
 </details>
 
 <details>
