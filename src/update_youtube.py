@@ -223,7 +223,7 @@ def summerize_script():
     else:
         logger.info("沒有需要處理的檔案")
 
-def make_doc(filename: str, video_list: list):
+def make_doc(filename: str, video_list: list, reverse):
     """
     將影片清單製作成文件
     Args:
@@ -256,7 +256,7 @@ def make_doc(filename: str, video_list: list):
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         
         # 依 idx 由大到小排序
-        sorted_videos = sorted(video_list, key=lambda x: x['idx'], reverse=False)
+        sorted_videos = sorted(video_list, key=lambda x: x['idx'], reverse=reverse)
         
         with open(filename, 'w', encoding='utf-8') as f:
             for video in sorted_videos:
@@ -285,7 +285,7 @@ def make_doc(filename: str, video_list: list):
     except Exception as e:
         logger.error(f"製作文件失敗 {filename}: {str(e)}")
 
-def create_readme_doc(max_idx, latest_date, batch_size=100, reverse=True):
+def create_readme_doc(max_idx, latest_date, batch_size, reverse):
     content = f"""# Reuters World News ({latest_date})
 
 ---
@@ -320,6 +320,7 @@ def create_doc(df):
         # 取得最大的 idx
         max_idx = df['idx'].max()
         batch_size = 20
+        reverse = True
         
         # 計算需要產生幾個檔案
         num_batches = (max_idx + batch_size - 1) // batch_size  # 向上取整
@@ -344,7 +345,7 @@ def create_doc(df):
                 logger.info(f"處理文件：{filename} (idx: {start_idx}-{end_idx}, 實際筆數: {len(video_list)})")
                 
                 # 呼叫 make_doc 製作文件
-                make_doc(filename, video_list)
+                make_doc(filename, video_list, reverse)
                 
                 logger.info(f"完成文件：{filename}")
         
@@ -352,7 +353,7 @@ def create_doc(df):
 
         # 取得最新日期
         latest_date = df['date'].iloc[-1]
-        create_readme_doc(max_idx, latest_date, batch_size)
+        create_readme_doc(max_idx, latest_date, batch_size, reverse)
         
     except Exception as e:
         logger.error(f"處理文件時發生錯誤：{str(e)}")
