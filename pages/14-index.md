@@ -534,7 +534,7 @@
 </details>
 
 <details>
-<summary>289. Israel ceasefire approval, SpaceX, migrants’ mental health and Australian Open</summary><br>
+<summary>289. [2025-01-17] Israel ceasefire approval, SpaceX, migrants’ mental health and Australian Open</summary><br>
 
 <a href="https://www.youtube.com/watch?v=lYkHov42YK8" target="_blank">
     <img src="https://img.youtube.com/vi/lYkHov42YK8/maxresdefault.jpg" 
@@ -543,11 +543,30 @@
 
 # Israel ceasefire approval, SpaceX, migrants’ mental health and Australian Open
 
+### 一、極端暴力對移民的影響
+- **問題 severity**: 濰南移民遭受了極為嚴重的身體和性別暴力，包括強姦、毴殘和敲詐等行為。
+- **案件未報告**: 大部分案件因Fear of Retribution或其他原因未被報導，導致數據 scarce。
+- **受害者心理影響**: 受害者經常出現恐慌攻擊、心臟問題和其他身體反應，需要長期心理康復。
+- **趨勢**: Doctors Without Borders指出，針對移民的暴力行為近年來有所增加，尤其是對女性和兒童。
 
+### 二、澳網 tournament 經過與亮點
+- **男子單打**: 年輕選手表現突出，包括青少年擊敗高種子選手（如巴西 Hal fona 擊敗André rublev）。
+- **女子單打**: 最年長選手Laura Siegemund爆冷擊敗第五種子Shen Chin-Wen。
+- **焦點對決**:
+  - Novak Djoković爭取第25個大滿貫冠軍，將成為歷史上最成功的網球選手。
+  - Naomi Osaka的回歸表現令人期待，希望她能重現以往高峯狀態。
+
+### 三、_podcast 推薦與資源
+- **特別節目**: 即將發布的Donald Trump就職典禮專集，探討活動本身及後續影響。
+- **資源**: 更多新聞報導請訪問reuters.com或Reuters應用程式。
+- **訂閱提示**: 在喜歡的播客平臺上關注以獲取最新更新。
+
+### 四、總結
+本期節目涵蓋了移民暴力問題和澳網 tournament 的最新發展，並提供相關資源供聽眾進一步探索。
 </details>
 
 <details>
-<summary>288. Biden and Trump's Gaza ceasefire deal, Netanyahu delay and South African mine siege</summary><br>
+<summary>288. [2025-01-16] Biden and Trump's Gaza ceasefire deal, Netanyahu delay and South African mine siege</summary><br>
 
 <a href="https://www.youtube.com/watch?v=I4dgqsOv_ys" target="_blank">
     <img src="https://img.youtube.com/vi/I4dgqsOv_ys/maxresdefault.jpg" 
@@ -556,11 +575,36 @@
 
 # Biden and Trump's Gaza ceasefire deal, Netanyahu delay and South African mine siege
 
+### 國際新聞重點整理
 
+#### 中東局勢
+- **以色列與伊朗衝突升級**：以色列對敘利亞境內的伊朗軍事目標發動空襲，導致多名伊朗革命衛隊成員喪生。
+- **地區緊張加劇**：此次襲擊引發了中東地區的高度關注，各方可能採取進一步行動以應對局勢變化。
+
+#### 經濟動態
+- **美國股市表現強勁**：受通脹數據低於預期以及多家大型銀行財報強勁的推動，華爾街主要股指觸及歷史新高，顯示市場對特朗普政府經濟政策的信心增強。
+- **全球經濟風險**：世界經論壇報告指出，2025年最顯著的風險將是武裝衝突，反映了全球治理和國際合作面臨的挑戰。
+
+#### 政治與政策
+- **美國政治動向**：
+  - 特朗普考慮發布行政命令，延遲對TikTok的禁令執行，顯示其在社交媒體監管問題上的靈活性。
+  - 司法 nominee承諾不根據政治立場使用司法資源，強調公正執法的重要性。
+- **南非法礦事故處理**：政府採取嚴厲措施打擊非法採礦活動，引發礦工及其家屬的強烈反應和法律訴訟。
+
+#### 社會與人道主義
+- **美國山火風險**：洛杉磯地區因極端天氣條件，野火風險持續存在，提醒公衆需做好防範準備。
+- **南非法礦救援**：超過70名礦工被救出，但仍有多具遺體發現。政府表示將持續打擊非法採礦行爲，但行動引發爭議。
+
+#### 全球熱點
+- ** Davos經濟論壇展望**：2025年全球主要風險指向武裝衝突，凸顯國際社會在安全與合作方面面臨的挑戰。
+- **TikTok禁令延遲可能性**：特朗普可能通過行政命令延緩對TikTok的禁令執行，顯示政策制定中的權宜考量。
+
+### 總結
+當前國際局勢複雜多變，涵蓋中東地緣政治、全球經濟展望、美國國內政策調整以及全球性挑戰如武裝衝突和非法採礦問題。各方需密切關注相關動態，並做好應對準備。
 </details>
 
 <details>
-<summary>287. Ukraine peace delay, TikTok alternative, South Korea arrest and wildfire aid fight</summary><br>
+<summary>287. [2025-01-15] Ukraine peace delay, TikTok alternative, South Korea arrest and wildfire aid fight</summary><br>
 
 <a href="https://www.youtube.com/watch?v=l0a8zh6yDuU" target="_blank">
     <img src="https://img.youtube.com/vi/l0a8zh6yDuU/maxresdefault.jpg" 
@@ -569,7 +613,39 @@
 
 # Ukraine peace delay, TikTok alternative, South Korea arrest and wildfire aid fight
 
+<start of response>
 
+### 美國政治動態
+- **內閣任命受質詢**  
+  - 軍事長官人選佩特·莫納ahan在參議院聽證會上受到圍堵，被指控醉酒和發表種族主義言論。  
+  - 其辯稱這些指控是針對他的政治抹黑，強調自己若獲任命將戒酒。  
+  - 莫納ahan獲得共和黨議員珍妮·艾恩斯的支持。
+
+- **加州野火救援款項爭議**  
+  - 議會圍繞California wildfire災後援助展開辯論，共和黨籍-speaker Mike Johnson要求附加條件，指責州政府管理不善。  
+  - 民主黨議員批評此舉政治化天災，強調救援撥款需 bipartisan 協作。  
+  - 目前 FEMA 表示資金足夠應對當前需求，但若を通關仍需民主黨支持。
+
+### 國際新聞
+- **韓國前總統尹弌錬被逮**  
+  - 因涉嫌叛亂及濫用職權，尹弌錬遭逮捕並接受調查，其支持者集結抗議，部分與警方發生衝突。  
+  - 尹弌錬的 supporters 主要是 pro-Trump 羣體，期望美國總統-elect  Trump 援助。  
+
+- **土耳其政局震蕩**  
+  - 土耳其司法當局限制 Twitter 和 Instagram 使用，引發外界對政權濫用網絡管制的擔憂。  
+  - 此舉被視為鞏固 Erdogan 政權的手段，國內反對聲浪持續升高。
+
+### 經濟與商業
+- **沃倫巴菲特的能源帝國**  
+  - 沃倫巴菲特旗下的伯克希爾哈撒威公司經營美國最骯臟的燃煤電廠，並抵制更潔淨能源的要求。  
+  - 儘管公司在可再生能源有所投資，但仍被指責未履行環保責任。
+
+### 法律與司法
+- **社交平臺管制爭議**  
+  - 土耳其政府限制 Twitter 和 Instagram 的使用，被批評為壓制言論自由的舉措。  
+  - 此措施可能進一步削弱土耳其民主制度，並影響國際形象。
+
+<end of response>
 </details>
 
 <details>
