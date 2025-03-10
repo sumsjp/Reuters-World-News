@@ -302,7 +302,7 @@
 </details>
 
 <details>
-<summary>274. Jimmy Carter, South Korea air disaster and Russian gas</summary><br>
+<summary>274. [2024-12-30] Jimmy Carter, South Korea air disaster and Russian gas</summary><br>
 
 <a href="https://www.youtube.com/watch?v=3gPZFsvJDAw" target="_blank">
     <img src="https://img.youtube.com/vi/3gPZFsvJDAw/maxresdefault.jpg" 
@@ -311,11 +311,55 @@
 
 # Jimmy Carter, South Korea air disaster and Russian gas
 
+**日期：2024年12月30日**
 
+---
+
+### **1. 政治與國際事務**
+
+#### **a. 政治動向**
+- 美國政治權力移交及其對跨大西洋經濟的影響。
+- 以色列在加薩走廊的軍事行動引起人道主義關注。
+
+#### **b. 地區緊張**
+- 加拿大外長妮可拉·扎裏夫訪問印度，討論阿富汗重建、印巴關係及氣候變化等議題。
+- 中東和平計劃備受關注，以色列和哈馬斯的對峙持續。
+
+---
+
+### **2. 經濟與商業**
+
+#### **a. 財政市場**
+- 亞洲股市收低，美國和歐洲股指漲跌互現，投資者紮堆避險迎接新年。
+- 日股全年上漲近20%，創下佳績。
+
+#### **b. 地區經濟影響**
+- 經濟合作暨發展組織呼籲俄羅斯恢復履行國際義務，以促進全球增長和穩定。
+- 德國等國家逐步擺脫對俄羅斯天然氣的依賴，但部分東歐國家仍高度倚賴。
+
+#### **c. 能源動態**
+- 俄羅斯天然氣工業股份公司（Gazprom）因烏克蘭拒絕續簽管道過境協議，可能影響能源供應和價格。
+- 約旦及以色列央行呼籲國際捐助以支持脆弱的經濟形勢。
+
+---
+
+### **3. 事故與災害**
+
+#### **a. 自然災害**
+- 菲律賓遭遇強烈地震，造成重大人員傷亡和財產損失。
+
+#### **b. 戰爭影響**
+- 加沙地帶衝突導致大量平民傷亡，基礎設施遭受破壞。
+- 約旦河西岸爆發暴力事件，引發人道主義憂慮。
+
+---
+
+### **總結**
+2024年12月30日的全球新聞IGHLIGHTS圍繞政治、經濟和災害三大主題。從美國的政治權力移交到中東和平計劃的緊張局勢，再到亞洲股市的波動和俄羅斯天然氣供應的變數，各個領域均展現出複雜的國際形勢與挑戰。
 </details>
 
 <details>
-<summary>273. Azerbaijan plane crash, Indian Ocean tsunami remembered and LA homelessness</summary><br>
+<summary>273. [2024-12-27] Azerbaijan plane crash, Indian Ocean tsunami remembered and LA homelessness</summary><br>
 
 <a href="https://www.youtube.com/watch?v=4NCSCLRM1_E" target="_blank">
     <img src="https://img.youtube.com/vi/4NCSCLRM1_E/maxresdefault.jpg" 
@@ -324,11 +368,39 @@
 
 # Azerbaijan plane crash, Indian Ocean tsunami remembered and LA homelessness
 
+### 文章要點整理
 
+#### 1. 印度洋海嘯20周年紀念
+- **事件背景**：2004年12月印度尼西亞蘇門答臥島附近發生9.1 magnitude地震，引發巨大海嘯，導致超過23萬人喪生。
+- **倖存者故事**：
+  - SAA在此次災難中失去了兒子Sidik，其屍體未被尋回。
+  - SAA仍在希望Sidik可能仍然存活，並每年在災害發生時到墓地祈禱。
+- **影響與紀念**：各地舉行活動紀念這場災難，並反思防災減災措施。
+
+#### 2. 洛杉磚對 homelessness 的應對措施
+- **城市問題**：洛杉磯市有超過4萬名無家可歸者，影響城市環境和居民生活品質。
+- **政策與行動**：
+  - 市長Karen Bass的「Inside Safe」計劃已將2.3萬人從街頭轉移到酒店或庇護所。
+  - 提供社會服務以幫助這些人恢復生活。
+- **成效與挑戰**：
+  - 短期內有效減少街頭露宿者，但永久性住房仍不足。
+  - 雖然有進展，如58名流浪者搬入新公寓，但仍需持續努力。
+
+#### 3. 全球新聞工作者年度攝影展
+- **活動宣佈**：Reuters將於翌日播出「Global photographers discuss photos of the year for 2024」的特別節目。
+- **目的**：展示記者如何捕捉年度重要事件，提供視覺記錄。
+
+#### 4. 其他要聞
+- **來源**：Reuters網站和應用程序提供更多詳細報導。
+- **_podcast 更新**：.listeners被鼓勵在 любимый podcast平臺訂閱以獲取最新內容。
+
+---
+
+以上整理涵蓋了文章中主要的事件與發展，並按主題分類，使用正式且客觀的語言表述。
 </details>
 
 <details>
-<summary>272. Biden’s commutations, Matt Gaetz and Christmas in Syria</summary><br>
+<summary>272. [2024-12-24] Biden’s commutations, Matt Gaetz and Christmas in Syria</summary><br>
 
 <a href="https://www.youtube.com/watch?v=jTL3Xo5m0Fk" target="_blank">
     <img src="https://img.youtube.com/vi/jTL3Xo5m0Fk/maxresdefault.jpg" 
@@ -337,7 +409,48 @@
 
 # Biden’s commutations, Matt Gaetz and Christmas in Syria
 
+### 經濟與金融
+1. **中國經濟刺激措施**  
+   - 中國將發行3萬億元人民幣（約4,000億美元）的特別國債，創歷史新高，以應對-economic寒冬並抗衡美國加徵關稅的影響。
+   - 北京市願意通過增加債務來抵禦全球經濟的通縮壓力。
 
+2. **俄羅斯貨輪沉沒**  
+   - 一艘俄羅斯貨船在地中海西西臥洲與阿爾及利亞之間海域因引擎室爆炸沉沒，兩人失蹤。  
+
+3. **敘利亞宗教自由狀況**  
+   - 反叛勢力襲擊教會、破壞十字架，引發基督徒對新政府保障宗教自由能力的疑慮，決定縮減聖誕慶祝規模。
+
+### 政治與國際關係
+1. **美國政策變動**
+   - 美國參議院通過法案，要求TikTok母公司字節跳動出售該App，否則將於2024年禁用。案件已上訴至最高法院。
+   - 特朗普政府計劃退出世界衛生組織（WHO），但拜登政府曾宣布不會退出。
+
+2. **中國對美策略**
+   - 美中貿易戰加徵關稅壓力下，北京增加經濟刺激措施，顯示其應對國際局勢的彈性。
+
+3. ** Sudan退出全球饑饉監控系統**  
+   - 蘊南政府指控IPC報告不實，退出饑饉監測系統，可能影響全球饑饉救援努力。
+
+### 社會與文化
+1. **以色列首次公開承認刺殺哈馬斯領導人**
+   - 以國防部承認襲擊哈馬斯高層艾哈邁德·罕尼耶，引發地區緊張局勢。
+
+2. **俄羅斯教會事件**
+   - 教會遇襲事件反映敘利亞宗教團體的安全憂慮。
+
+### 科技與網路
+1. **TikTok美國命運未定**  
+   - 美國政府要求TikTok出售或禁用，案件將由最高法院裁決，涉及國家安全與科技自由問題。
+
+### 其他國際事務
+1. **俄羅斯船沉沒**
+   - 事件可能影響地中海航運安全，俄方正在調查原因。
+
+2. **敘利亞基督徒聖誕慶祝縮減**
+   - 反映當地宗教團體面對新政治局勢的.passive與不信任。
+
+### 網路資源
+- 更多報導可於Reuters官網或App查閱。
 </details>
 
 <details>
