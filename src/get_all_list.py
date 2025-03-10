@@ -6,7 +6,7 @@ from yt_dlp import YoutubeDL
 channel_url = 'https://www.youtube.com/playlist?list=PLZhRxE9191zPN4uc07ytohaXcS13qEgm2'
 
 # === 設定 CSV 檔案名稱 ===
-csv_file = '../video_list.csv'
+csv_file = './video_list.csv'
 
 # === yt-dlp 參數 ===
 ydl_opts = {

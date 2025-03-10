@@ -14,20 +14,25 @@ from lib.myai import get_summary
 from lib.mylog import setup_logger
 from verify_chinese import detect_chinese
 
+# === 設定頻道網址 ===
+channel_url = 'https://www.youtube.com/playlist?list=PLZhRxE9191zPN4uc07ytohaXcS13qEgm2'
+
 # 設定 logger
 logger = setup_logger('youtube_update')
 
 # === 設定目錄路徑 ===
-base_dir = os.path.dirname(os.path.abspath(__file__)) + '/../'
-subtitle_dir = os.path.join(base_dir, 'subtitle/')
-summary_dir = os.path.join(base_dir, 'summary/')  
-docs_dir = os.path.join(base_dir, 'docs/')
-readme_file = os.path.join(base_dir, 'README.md')  
-csv_file = os.path.join(base_dir, 'video_list.csv')
-black_list_file = os.path.join(base_dir, 'black_list.csv')
+src_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.join(src_dir, '../')
 
-# === 設定頻道網址 ===
-channel_url = 'https://www.youtube.com/playlist?list=PLZhRxE9191zPN4uc07ytohaXcS13qEgm2'
+# under base_dir
+pages_dir = os.path.join(base_dir, 'pages/')
+summary_dir = os.path.join(base_dir, 'summary/')  
+readme_file = os.path.join(base_dir, 'README.md')  
+
+# under src_dir
+subtitle_dir = os.path.join(src_dir, 'subtitle/')
+csv_file = os.path.join(src_dir, 'video_list.csv')
+black_list_file = os.path.join(src_dir, 'black_list.csv')
 
 # === 載入環境變數 ===
 load_result = load_dotenv()
@@ -337,7 +342,7 @@ def create_doc(df):
             # 如果這個範圍有資料才處理
             if not batch_df.empty:
                 # 產生檔名 (01-index.md, 02-index.md, ...)
-                filename = f"{docs_dir}/{batch_num:02d}-index.md"
+                filename = f"{pages_dir}/{batch_num:02d}-index.md"
                 
                 # 將 DataFrame 轉換成字典列表
                 video_list = batch_df.to_dict('records')
@@ -430,5 +435,5 @@ if __name__ == '__main__':
     download_script(df)
     summerize_script()
     create_doc(df)
-    email_notify(new_df)
+    # email_notify(new_df)
     logger.info("更新程序完成")
