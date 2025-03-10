@@ -187,7 +187,7 @@
 </details>
 
 <details>
-<summary>277. South Korea, New Orleans and ISIS, Biden's Nippon Steel block and the Golden Globes</summary><br>
+<summary>277. [2025-01-03] South Korea, New Orleans and ISIS, Biden's Nippon Steel block and the Golden Globes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=t6C7YEgmdOg" target="_blank">
     <img src="https://img.youtube.com/vi/t6C7YEgmdOg/maxresdefault.jpg" 
@@ -196,11 +196,35 @@
 
 # South Korea, New Orleans and ISIS, Biden's Nippon Steel block and the Golden Globes
 
+### 經整理的新聞要點：
 
+#### 韓國政治危機：
+- 南韓遭彈劾總統尹عزل被警方圍堵逮捕未果。警方花10小時 standoff 但因總統警衛和軍隊阻止而失敗。
+- 尹عزل涉嫌叛亂罪，因其企圖在12月初實施戒嚴令。此次行動導致其遭到彈劾。
+- 警方未能成功拘押尹عزل，案件將進一步發展。
+
+#### 國際政治動態：
+- 德國和法國外長計劃今日訪問敘利亞，將會見新任領袖阿罕德·阿勒沙爾（Ahmed Al Shar）。此為叛軍奪權後，歐盟高官首次訪Syria。
+- 美國總統特朗普提名的眾議院議員麥克·Johnson（Mike Johnson）將接受共和黨內部選舉，若出現兩票反對即可致使其落敗。
+
+#### 商業與經濟：
+- 日本Nepon鋼鐵公司收購美國新墨西哥州 steel mill 的計劃被阻止。此交易涉及每年增加2000萬噸鋼產能。
+- 分析師認為此次交易受阻主要影響限於鋼鐵行業，對美日整體關係影響不大。
+
+#### 武器攻勢：
+- 以色列空襲加沙地帶，導致至少68名巴勒斯坦人遇難，其中包括哈瑪斯控制警力的負責人及其副手。
+
+#### 好萊塢獎項季：
+- 本年度金球獎將於周日舉行，妮琪·Glazer首次主持。她強調本次晚宴將着重慶祝而非諷刺。
+- 入圍作品方面，《 wicked》和《brutalist》為主要競爭者。
+
+#### 其他要聞：
+- 虛構電視劇《 Bruiser》，由阿德裏安·布洛迪主演，入圍金球獎最佳戲劇類影片。
+- 今早推薦閱讀：Jimmy Carter的 Habitat for Humanity遺產。
 </details>
 
 <details>
-<summary>276. New Orleans, Tesla truck explosion, Gazprom and the debt ceiling</summary><br>
+<summary>276. [2025-01-02] New Orleans, Tesla truck explosion, Gazprom and the debt ceiling</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zgtIIX4_U4Y" target="_blank">
     <img src="https://img.youtube.com/vi/zgtIIX4_U4Y/maxresdefault.jpg" 
@@ -209,11 +233,44 @@
 
 # New Orleans, Tesla truck explosion, Gazprom and the debt ceiling
 
+### 1. 美國債務上限問題
 
+- **背景**  
+  - 美國政府面臨法定借款上限，即債務上限，需在2024年1月14日前採取非常措施避免違約。
+  
+- **歷史與機制**  
+  - 債務上限由國會於1971年設立，最初爲應對第一次世界大戰的借款需求。其作用是設定政府可發行債券的最大額度。
+  
+- **當前情況**  
+  - 財政部可能需要在1月14日之前採取非常措施，以防止債務違約。
+
+### 2. 歐洲能源市場與美國頁巖氣
+
+- **俄羅斯天然氣工業股份公司（Gazprom）困境**  
+  - 因俄烏衝突和西方制裁，Gazprom失去歐洲主要客戶，導致2023年虧損70億美元。
+  
+- **美國頁巖氣的崛起**  
+  - 美國天然氣行業迅速填補了俄羅斯供應的空白，成爲歐洲的主要供應商。
+
+### 3. 美國債務上限的政治博弈
+
+- **歷史回顧**  
+  - 自1971年以來，債務上限常被用作政治籌碼，尤其是共和黨在近年來將其作爲削減開支的談判工具。
+  
+- **經濟影響**  
+  - 多數政策專家認爲，債務上限是人爲障礙，對全球經濟穩定構成風險。
+
+### 4. 其他國際新聞
+
+- **歐洲能源市場轉型**  
+  - 美國頁巖氣在歐洲的崛起結束了俄羅斯天然氣工業股份公司的 dominance，並推動了全球液化天然氣市場的擴張。
+  
+- **美國與中國臺灣地區的貿易關係**  
+  - 美國政府計劃推動中國臺灣地區增加購買美國能源，否則將面臨關稅影響。
 </details>
 
 <details>
-<summary>275. US Treasury hack, Trump and Musk on visas and Syria's Ukraine overtures</summary><br>
+<summary>275. [2024-12-31] US Treasury hack, Trump and Musk on visas and Syria's Ukraine overtures</summary><br>
 
 <a href="https://www.youtube.com/watch?v=c2IDeBtKBN8" target="_blank">
     <img src="https://img.youtube.com/vi/c2IDeBtKBN8/maxresdefault.jpg" 
@@ -222,7 +279,26 @@
 
 # US Treasury hack, Trump and Musk on visas and Syria's Ukraine overtures
 
+### 國際關係與地緣政治
 
+#### 敘利亞新政府的戰略夥伴關係  
+- 新任敘利亞外長表示，敘利亞希望與烏克蘭建立戰略合作夥伴關係，特別是在俄羅斯影響力減弱的情況下。  
+- 烏克蘭正積極與新伊斯蘭主義統治下的敘利亞建立聯繫，其他包括美國在內的國家也在尋求加強雙邊關係。  
+- 美國官員對敘利亞新政權持謹慎樂觀態度，同時警惕其可能回歸極端立場的風險。  
+
+#### 技術行業與移民政策的博弈  
+- 特朗普政府考慮調整H1B籤證政策，引發科技行業與移民限制派之間的緊張關係。  
+- 科技公司依賴H1B籤證引進外國技術人才，而特朗普的支持者認爲這影響了美國工人的就業機會和薪資水平。  
+- 特朗普在移民問題上的立場搖擺，既要滿足其基本盤的需求，又要平衡硅谷的利益。  
+
+### 其他國際新聞
+
+#### 紐約新年慶祝活動準備就緒  
+- 紐約市成功測試了時代廣場的水晶球和煙花表演設備，確保新年慶祝活動順利進行。  
+- 每年吸引了數百萬遊客參與的跨年夜慶祝活動已進入倒計時階段。  
+
+### 總結  
+以上爲本周國際新聞的主要看點，涵蓋地緣政治、移民政策和技術行業的動態。更多詳情可參考路透社的實時報道和深度分析。
 </details>
 
 <details>
