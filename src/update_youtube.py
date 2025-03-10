@@ -307,7 +307,7 @@ def create_readme_doc(max_idx, latest_date, batch_size, reverse):
     for i in rng:
         start_idx = i * batch_size + 1
         end_idx = min((i + 1) * batch_size, max_idx)
-        content += f"- [{start_idx:04d}~{end_idx:04d}](docs/{i:02d}-index.md)\n"
+        content += f"- [{start_idx:04d}~{end_idx:04d}](pages/{i:02d}-index.md)\n"
 
     content += "\n---\n"
 
