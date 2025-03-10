@@ -23,7 +23,8 @@ subtitle_dir = os.path.join(base_dir, 'subtitle/')
 summary_dir = os.path.join(base_dir, 'summary/')  
 docs_dir = os.path.join(base_dir, 'docs/')
 readme_file = os.path.join(base_dir, 'README.md')  
-csv_file = os.path.join(base_dir, 'src/video_list.csv')
+csv_file = os.path.join(base_dir, 'video_list.csv')
+black_list_file = os.path.join(base_dir, 'black_list.csv')
 
 # === 設定頻道網址 ===
 channel_url = 'https://www.youtube.com/playlist?list=PLZhRxE9191zPN4uc07ytohaXcS13qEgm2'
@@ -98,7 +99,6 @@ def download_script(df):
     os.makedirs(subtitle_dir, exist_ok=True)
     
     # 讀取黑名單
-    black_list_file = os.path.join(base_dir, 'src/black_list.csv')
     try:
         black_df = pd.read_csv(black_list_file)
     except FileNotFoundError:
@@ -429,5 +429,5 @@ if __name__ == '__main__':
     download_script(df)
     summerize_script()
     create_doc(df)
-    # email_notify(new_df)
+    email_notify(new_df)
     logger.info("更新程序完成")
