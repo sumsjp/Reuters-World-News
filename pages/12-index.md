@@ -703,7 +703,7 @@ R's World News節目報導了多個熱點話題，包括敘利亞政變、國際
 </details>
 
 <details>
-<summary>245. Russian missile, Adani, school choice and Target’s woes</summary><br>
+<summary>245. [2024-11-21] Russian missile, Adani, school choice and Target’s woes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=WlI8xZ2QoiU" target="_blank">
     <img src="https://img.youtube.com/vi/WlI8xZ2QoiU/maxresdefault.jpg" 
@@ -712,11 +712,36 @@ R's World News節目報導了多個熱點話題，包括敘利亞政變、國際
 
 # Russian missile, Adani, school choice and Target’s woes
 
+### 1. 地區衝突與國際關係
+- **俄羅斯與烏克蘭戰事**：俄羅斯在烏克蘭的行動持續，引發國際關注與制裁。
+- **美中 relations**：美國對中國的科技限制和貿易政策繼續影響全球市場。
 
+### 2. 政治動態
+- **美國教育改革**：
+  - 塞琳娜·麥卡梅恩被提名人選為教育部長，擬推行政策增加私立學校選擇。
+  - 學校-choice計劃將提供稅收優惠，預計覆蓋60萬名學生。
+
+### 3. 經濟與市場
+- **美國零售業挑戰**：
+  - 目標電子商務面臨來自沃爾瑪等競爭對手的壓力，節假日銷售額可能受影響。
+- **印度經濟增長**：印度央行調高2024財政年度GDP增速至5.9%，顯示經濟復甦。
+
+### 4. 科技與創新
+- **人工智慧（AI）**：
+  - 興趣點：Carmel Crims探討人類如何與AI共存，強調科技的未來發展。
+  
+### 5. 其他重要新聞
+- **德國政治回憶錄**：
+  - 安格拉·默克爾的回憶錄《Merkel: A Life》即將出版，披露其處理國際事務的手法。
+
+---
+
+### 總結：
+本文整理了多個國家的重大事件與政策動向，涵蓋地緣政治、經濟挑戰、教育改革和科技發展等方面。從俄羅斯的烏克蘭行動到美國的教育政策，以及印度的經濟展望，這些內容提供了全球最新動態的概覽。
 </details>
 
 <details>
-<summary>244. Putin’s peace, Trump’s legal future, Milei and Nvidia</summary><br>
+<summary>244. [2024-11-20] Putin’s peace, Trump’s legal future, Milei and Nvidia</summary><br>
 
 <a href="https://www.youtube.com/watch?v=-essPiLpY-Y" target="_blank">
     <img src="https://img.youtube.com/vi/-essPiLpY-Y/maxresdefault.jpg" 
@@ -725,7 +750,29 @@ R's World News節目報導了多個熱點話題，包括敘利亞政變、國際
 
 # Putin’s peace, Trump’s legal future, Milei and Nvidia
 
+### Introduction  
+本篇文章涵蓋了多個國際政治與法律相關的重要事件，主要圍繞美國前總統唐納德·特朗普的法律問題、全球 geopolitik 活動以及中國在南美洲的外交影響力。文章通過客觀報道和深度分析，揭示了當前國際形勢的複雜性與敏感性。
 
+---
+
+### Key Points  
+
+#### 1. **特朗普刑事訴訟的最新發展**  
+- 特朗普因涉及向成人影片明星支付「封口費」而被定罪，並原定於近期接受判刑。然而，檢察官請求暫停案件 proceedings，理由是他已連任美國總統，需集中精力履行職責。
+- 法院批准了此懸案，但最終裁決仍不明朗。特朗普的律師表示將上訴，且他可能在卸任後才面對判刑。
+
+#### 2. **G20峯會的 geopolitik 高潮**  
+- 新一屆美國總統唐納德·特朗普的即將就職引發全球關注，各國領導人紮緊繃帶準備應對潛在的外交挑戰。
+- 在_Argentina_總統Javier Mle與特朗普會面後，阿根廷代表在G20峯會上提出強硬立場，反映了特朗普政線的回歸。此舉 nearly 導致G20未能達成共同聲明，顯示了國際合作的脆弱性。
+
+#### 3. **中國在南美洲的外交影響力**  
+- 中國國家主席習近平近期對南美洲進行了一系列訪問，進一步鞏固了北京在該地區的影響。
+- 文章指出，北京正利用美國總統換屆之際，填補美國在拉美地區留下的真空，提升自身的地緣政治地位。
+
+---
+
+### Conclusion  
+本文強調了當前國際事務中多邊合作與對抗並存的複雜性。特朗普的法律問題不僅影響他個人聲譽，也牽動著美國國內政局；G20峯會則展現了全球領導人在面對 geopolitik 挑戰時的脆弱性；而中國在南美洲的外交行動則凸顯了其在全球舞臺上的崛起與策略布局。未來，這些事件將繼續塑造國際 relations 的走向。
 </details>
 
 <details>
