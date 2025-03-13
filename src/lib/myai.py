@@ -11,6 +11,9 @@ prompt = '''
 6. 避免個人意見和推浮，是一個可信賴的工具，用于整理各個領域的複雜學術內容，非常適於研究人員、學生和學術人士。
 '''
 
+# MODEL = 'deepseek-r1:14b'
+MODEL = 'gemma3:27b'
+
 def get_summary(text):
     client = OpenAI(
         api_key='ollama',
@@ -31,7 +34,7 @@ def get_summary(text):
 # 歸納重點，包括但不限於，核心議題、問題原因、各界看法、主要影響、處理方案、未來發展、結論等小節，依實際內容可作增減。
         
         response = client.chat.completions.create(
-            model="deepseek-r1:14b",
+            model=MODEL,
             messages=[
                 {
                     "role": "system",
