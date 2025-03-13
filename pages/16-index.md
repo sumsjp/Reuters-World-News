@@ -1,4 +1,79 @@
 <details>
+<summary>337. [2025-03-12] Ukraine ceasefire, metal tariffs and Columbia student</summary><br>
+
+<a href="https://www.youtube.com/watch?v=_UutMezE6d8" target="_blank">
+    <img src="https://img.youtube.com/vi/_UutMezE6d8/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Ukraine ceasefire, metal tariffs and Columbia student
+
+## Reuters World News - 2024年3月12日 新聞重點整理
+
+**一、烏克蘭衝突與國際關係：**
+
+*   並無直接提及烏克蘭衝突，但新聞提及格陵蘭選舉，及美國總統Trump 對格陵蘭的干預意圖，進一步凸顯國際地緣政治的緊張局勢。
+
+**二、國際貿易與經濟：**
+
+*   **美國關稅政策：**美國總統Trump威脅對加拿大實施50%關稅，後又表示可能取消，顯示貿易政策的不穩定性及不確定性。這些關稅與北美貿易的潛在影響。
+
+**三、美國國內政治與政府運作：**
+
+*   **聯邦政府預算：**美國國會眾議院通過臨時法案，避免聯邦政府在本週五截止前關門，但仍需參議院通過、總統簽署才能生效。
+*   **政府機構裁員：**美國教育部將裁減人員，符合特朗普政府推動的政府機構人員削減目標。
+
+**四、地區衝突與恐怖主義:**
+
+*   **巴基斯坦列車襲擊事件：** 俾路支解放軍炸毀鐵路線並射擊列車，造成人員傷亡及人質被扣留。巴基斯坦軍隊已展開營救行動。
+
+**五、法律與人權:**
+
+*  **美國移民法與學生抗爭**: 一名參與哥倫比亞大學支持巴勒斯坦示威且持有綠卡的學生，遭移民及海關執法局逮捕，引發對美國政府以抗議活動為由，對持合法身分的居民進行遣返之爭議，並可能為其他綠卡持有者帶來擔憂。該案件正在聯邦法院審理中。
+
+**六、新聞推薦：**
+
+*   **格陵蘭選舉結果:** 反對獨立但親丹麥的民主黨勝選。特朗普對格陵蘭的干預提高了對該島選舉的全球關注，也突顯了地緣政治競爭對北極地區的影響。
+</details>
+
+<details>
+<summary>336. [2025-03-13] Poll on Trump's economy, shutdown and 'the menswear guy' on tariffs</summary><br>
+
+<a href="https://www.youtube.com/watch?v=kg1Twiye3mE" target="_blank">
+    <img src="https://img.youtube.com/vi/kg1Twiye3mE/maxresdefault.jpg" 
+        alt="[Youtube]" width="200">
+</a>
+
+# Poll on Trump's economy, shutdown and 'the menswear guy' on tariffs
+
+## Reuters 世界新聞廣播重點摘要（3 月 13 日）
+
+**一、國內政治經濟動態 (美國)**
+
+*   **民眾對特朗普經濟政策的反思：** 民意調查顯示，民眾對特朗普總統的貿易政策，特別是關稅政策可能對國內就業和物價產生的影響存在疑慮。
+*   **聯邦預算法案：** 眾議院通過政府支出法案，但遇上參議院民主黨人阻力，可能造成政府停擺危機。民主黨內部對於法案的協商存在分歧。
+*   **「美國製造」可行性：** 儘管特朗普政府倡導「美國製造」，但由於產業結構、勞動成本以及某些原物料依賴進口等原因，一些產業（例如服裝）要完全恢復國內生產仍具有挑戰性。
+
+**二、國家安全與國際關係**
+
+*   無明顯提及。
+
+**三、國內社會議題 (美國)**
+
+*   **醫療保健政策創新：** 瑞士推出一項創新醫療保健計畫，醫生開始開立「自然處方」，鼓勵民眾到戶外散步或參觀美術館等，以提升心理健康。
+*    **特朗普的襪子：** 白宮對愛爾蘭領導人來訪時副總統凡斯所穿的袜子表现出兴趣。
+
+**四、國際新聞**
+
+*   **阿根廷抗議活動：** 阿根廷爆發由退休人員和球迷組成的抗議活動，反對總統米雷的養老金改革措施，並與警察發生衝突。
+*   無明顯提及。
+**五、經濟與產業趨勢**
+
+*   **服裝產業：** 分析指出，美國要恢復服裝產業生產並非易事，涉及到產業鏈完整性、勞動力成本以及部分原物料進口依賴等因素。
+*   **貿易政策：** 關稅政策意圖刺激國內生產，但其效果仍有待觀察，可能對民眾產生物價上漲影響。
+</details>
+
+<details>
 <summary>335. [2025-03-11] Duterte arrest, stock selloff, farmers and Maradona</summary><br>
 
 <a href="https://www.youtube.com/watch?v=eHq0fCvqtrw" target="_blank">

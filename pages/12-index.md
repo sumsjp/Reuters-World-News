@@ -776,7 +776,7 @@ R's World News節目報導了多個熱點話題，包括敘利亞政變、國際
 </details>
 
 <details>
-<summary>243. China attacks, Trump’s federal purge and Hong Kong sentences</summary><br>
+<summary>243. [2024-11-19] China attacks, Trump’s federal purge and Hong Kong sentences</summary><br>
 
 <a href="https://www.youtube.com/watch?v=zZ94OYgWS54" target="_blank">
     <img src="https://img.youtube.com/vi/zZ94OYgWS54/maxresdefault.jpg" 
@@ -785,7 +785,37 @@ R's World News節目報導了多個熱點話題，包括敘利亞政變、國際
 
 # China attacks, Trump’s federal purge and Hong Kong sentences
 
+## Reuters 世界新聞摘要 – 2023 年 11 月 19 日
 
+以下是來自 Reuters 世界新聞廣播的重點摘要：
+
+**一、中國持續發生的暴力襲擊事件**
+
+*   近期中國各地頻發暴力襲擊事件，令人擔憂。
+*   這些襲擊事件涉及多個城市，引發社會關注。
+*   官方尚未提供關於襲擊動機或犯罪者的明確信息。
+
+**二、烏克蘭戰爭持續影響**
+
+*   烏克蘭戰爭已持續約三年，造成了數千人喪生，數百萬人流離失所。
+*   戰爭導致烏克蘭人口數量大幅減少，對該國基礎設施和經濟造成了嚴重破壞。
+*   相關報導詳述了戰爭對當地居民和全球影響的深入分析。
+
+**三、美國聯邦政府預算削減**
+
+*   美國總統當選人表示將大幅削減聯邦政府預算，此舉引起了政府員工的擔憂。
+*   已成立特別委員會，負責制定精簡預算的方案，預計將削減近一半的政府職位。
+*   此舉的實際可行性和預期效果尚不確定，可能影響社會福利和政府服務。
+
+**四、香港民主人士被判刑**
+
+*   香港高等法庭日前對 47 名參與 2021 年民主初選的活動人士判處刑罰，刑期長短不一，最高可達十年。
+*   此次判刑受到國際社會的批評，認為是對香港自由的打擊。
+*   香港政府則表示，該判決是基於法律，以維護社會秩序和國家安全。
+
+**五、其他國際新聞**
+*  澳大利亞外交部長Penny Wong 和美國政府對香港民主人士的判刑表達關切。
+*  推薦閱讀分析烏克蘭戰爭持續千天的文章，了解事件對當地居民和全球影響的分析。
 </details>
 
 <details>
