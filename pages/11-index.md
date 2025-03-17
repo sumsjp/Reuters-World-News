@@ -295,7 +295,7 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 </details>
 
 <details>
-<summary>231. Voters head to polls as turbulent campaign concludes</summary><br>
+<summary>231. [2024-11-05] Voters head to polls as turbulent campaign concludes</summary><br>
 
 <a href="https://www.youtube.com/watch?v=kyh56E6tWH8" target="_blank">
     <img src="https://img.youtube.com/vi/kyh56E6tWH8/maxresdefault.jpg" 
@@ -304,7 +304,37 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 
 # Voters head to polls as turbulent campaign concludes
 
+## 美國總統大選即時報導重點整理 (節錄自Podcast內容)
 
+以下為根據Podcast內容整理的重點，涵蓋選情、經濟、社會及安全方面的訊息。
+
+**一、 選情概覽**
+
+*   **選民情緒:** 選民普遍焦慮，許多人選擇遠離社群媒體、冥想、或以藥物舒緩情緒，以應對選舉壓力。
+*   **重點州:** 七個競爭激烈的州將決定下一任總統，選情受關注。
+
+**二、 經濟現況及挑戰**
+
+*   **表面強勁的經濟數據:** 美國經濟在疫情後恢復良好，就業增長、薪資上升，整體經濟表現出色。
+*   **選民感受落差:** 儘管經濟數據良好，但高通膨抵銷了薪資增長，許多美國民眾感受到經濟壓力，因此對現任政府不滿。
+*   **通貨膨脹挑戰:** 通膨狀況是此次選舉的重要議題，可能影響投票結果。
+
+**三、 總統繼任者將面對的危機**
+
+*   **不可預見的事件:** 在總統任期內，發生突發事件並改變政策方向的機率很高。
+*   **墮胎權利爭議:** 最高法院對墮胎權利做出改變，已成為重大爭議議題。
+*   **外來移民問題:** 儘管近期移民人數有所減少，但過去的非法移民問題依然存在。
+* **經濟政策:** 高通膨和高利率是總統繼任者要面對的挑戰。
+
+**四、 安全狀況與準備**
+
+*   **高防衛警戒:** 市區安全戒備森嚴，包括白宮周邊設置金屬圍欄等安全設施。
+*   **應對可能動盪:** 當局已為可能發生的社會動盪做好準備。
+
+**五、Podcast推薦閱讀:**
+
+*   **對比通膨價格:** 推薦一篇關於價格和通膨的短文，以比較過去和現在的物價，提供經濟洞察。 
+*   **Podcast相關資訊:** 建議聽眾訂閱Podcast，並前往Reuter網站或App獲取更多資訊。
 </details>
 
 <details>
@@ -334,7 +364,7 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 </details>
 
 <details>
-<summary>228. Harris and Trump on women and healthcare, plus Native Americans and China EVs</summary><br>
+<summary>228. [2024-11-01] Harris and Trump on women and healthcare, plus Native Americans and China EVs</summary><br>
 
 <a href="https://www.youtube.com/watch?v=qYb5Lkxz70E" target="_blank">
     <img src="https://img.youtube.com/vi/qYb5Lkxz70E/maxresdefault.jpg" 
@@ -343,7 +373,30 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 
 # Harris and Trump on women and healthcare, plus Native Americans and China EVs
 
+好的，以下針對原文的新聞報導進行重點整理：
 
+**一、 美國總統大選及相關政治事件**
+
+*   **假音訊息威脅**：美國各州正警惕在總統大選前的假音訊息（deepfake roocalls），該技術因AI進步而更難識別。
+*   **選舉募款爭議**：Elon Musk持續捐贈數額龐大的選舉資金給關鍵選區的選民，引發議論。
+*   **罷工協商**：波音公司(Boeing)與工會達成初步協議，提供員工四年共增薪38%、並提供簽名紅利，工會推薦會員通過。白宮對此表示祝賀。
+
+**二、國際貿易與經濟**
+
+*   **中歐電動車貿易摩擦**：中國政府要求國內汽車廠商暫緩在對其徵收高關稅的歐洲國家（如法國與義大利）投資。
+*   **中國外交策略**：中國試圖優化貿易策略：對支持關稅的國家採取限制投資措施，對反對的國家給予支援，以保留在歐盟市場的競爭力。
+*   **對美出口擔憂**：中國擔憂如川普(Trump)勝選，美國將增加對華關稅，故試圖維持與歐盟的貿易關係。
+
+**三、 世界各地新聞摘要**
+
+*   **西班牙洪災**: 東西班牙發生嚴重洪水，已造成超過150人死亡，搜救救援持續進行中。
+*   **波札那選舉結果**:波札那民主黨結束近六十年執政的局面，反對派聯盟「民主變革傘狀運動」(Umbrella for Democratic Change)勝選。
+* **歐洲關稅**: 歐洲對中國製電動車徵收高達45%的關稅。
+* **中國投資策略**: 中國政府指示BYD、SAIC等主要電動車製造商延遲在對其徵收關稅的歐洲國家的投資計畫。
+
+
+
+以上為該新聞報導的重點整理，希望能對您有所幫助。
 </details>
 
 <details>
