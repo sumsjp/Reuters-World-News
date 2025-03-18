@@ -400,7 +400,7 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 </details>
 
 <details>
-<summary>227. Securing the vote, US economic optimism and a Polish 'vampire'</summary><br>
+<summary>227. [2024-10-31] Securing the vote, US economic optimism and a Polish 'vampire'</summary><br>
 
 <a href="https://www.youtube.com/watch?v=NMUHypi3pmQ" target="_blank">
     <img src="https://img.youtube.com/vi/NMUHypi3pmQ/maxresdefault.jpg" 
@@ -409,11 +409,39 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 
 # Securing the vote, US economic optimism and a Polish 'vampire'
 
+## 美國 Reuters World News 電視節目重點摘要（2023年10月31日）
 
+**一、 經濟與選舉**
+
+*   **經濟成長：** 美國第三季經濟持續成長，消費者支出為一年半高峰。但民調顯示，多數民眾對經濟前景仍感擔憂。
+*   **股市：** 「輝煌七子」（字面上翻譯為“The Magnificent Seven”）─Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, 和 Tesla─ 為華爾街的指標公司，其財報公布成為市場關注焦點。
+*   **選情分析：** 節目提及選舉，但主要聚焦於與經濟及股市相關之重點，無特別強調特定候選人或政策。
+
+**二、 國際局勢與地緣政治**
+
+*   **黎巴嫩與以色列：** 據稱，黎巴嫩與以色列可能在數日內達成停火協議，條件為以色列在 60 天停火期間撤軍。
+*   **北韓導彈試驗：** 北韓試射洲際弹道导弹，飞行時間達一小時半，為其歷史最長的一次。
+*   **H5N1鳥流：** 美國首次在豬隻體內偵測到 H5N1 變種鳥流，引起對疫情蔓延的擔憂，因豬隻容易同時感染鳥類和人類病毒，可能產生新的病株。
+
+**三、 科技與企業財報**
+
+*   **財報公布：** Alphabet, Amazon, Meta, Microsoft等科技巨頭陸續公布財務報告。投資人關注這些公司在人工智慧（AI）領域投資的成本和效益。
+*   **AI投資：** 企業對AI的投資快速增加，促使成本膨脹，引起投資人對未來獲利能力的擔憂。
+
+**四、 科學與考古發現**
+
+*   **「吸血鬼」Zosia：**  波蘭科學家透過 DNA 分析、3D 列印與建模，重建 400 年前被埋葬的女性 Zosia 的面容，證明其生前可能患有疾病導致出現類似「吸血鬼」症狀的誤解。該研究旨在透過科學的角度，重新詮釋古代的傳說與信仰。
+*   **科學復興人：**科學家利用現代科學技術，試圖復興過去的生命，並揭示背後的歷史與文化意義。
+
+**五、 其他**
+
+*   **體育：** LA Dodgers 隊贏得世界大賽。
+* **社群風潮：**巴基斯坦掀起衝浪熱潮，受到年輕族群的追捧。
+*   **推薦閱讀：** 巴基斯坦衝浪社群的故事。
 </details>
 
 <details>
-<summary>226. Harris rallies in DC, lawn sign wars and Canada’s India accusation</summary><br>
+<summary>226. [2024-10-30] Harris rallies in DC, lawn sign wars and Canada’s India accusation</summary><br>
 
 <a href="https://www.youtube.com/watch?v=7QZyrPI0Cpw" target="_blank">
     <img src="https://img.youtube.com/vi/7QZyrPI0Cpw/maxresdefault.jpg" 
@@ -422,7 +450,36 @@ This summary aims to capture the main points from the Reuters broadcast in an or
 
 # Harris rallies in DC, lawn sign wars and Canada’s India accusation
 
+## 美聯社每日快訊新聞摘要（2024年5月8日）
 
+本摘要彙總了新聞報導的重點，提供清晰且客觀的資訊。
+
+**一、美國總統大選政壇動態**
+
+*   **副總統候選人討論：** 卡瑪拉·哈里斯在視訊中強調了拜登政府的成就和未來目標，突顯了政府在降低藥價和保護女性生育權方面的努力。
+*   **羅伯特·F·肯尼迪：** 最高法院駁回了他的競選資格移除請求。他已經退選，並支持特朗普。
+*   **史蒂夫·邦南：** 獲釋出獄，此前因藐視國會調查1月6日事件而被判刑。
+
+**二、經濟與金融發展**
+
+*   **中國經濟刺激方案：** 考慮在未來幾年發行高達1.4萬億美元的額外債務，刺激疲軟的經濟，若特朗普當選美國總統，此舉可能增強刺激方案。
+*   **歐盟關稅：** 對中國製造的電動車征收大幅增長關稅，對電動車股票構成壓力。
+*   **加拿大與印度衝突持續：** 加拿大指責印度內務部長阿米特·沙參與針對加拿大錫克分離主義者的策劃，導致兩國關係更加緊張。
+
+**三、亞太地區發展**
+
+*   **中國經濟政策變化：** 準備推出重大的刺激政策，希望在內外市場上能夠提升國力。
+*   **印度與加拿大關係：** 加拿大指控印度高層官員干涉國內事務，可能對兩國關係產生重大影響。
+
+**四、國際事件摘要**
+
+*   **西班牙洪災：** 暴雨導致東部地區至少有51人死亡。
+*   **氣候變化與金融市場：** 討論了碳交易對金融市場的影響。
+*   **智利和巴勒斯坦衝突：** 報導提及與衝突相關的報導，與美國的外交政策相關。
+
+**五、企業新聞摘要**
+
+*   **英特爾公司：** 特別報導探討了英特爾公司CEO帕特·吉爾辛格在重振美國品牌方面所犯下的錯誤。
 </details>
 
 <details>
