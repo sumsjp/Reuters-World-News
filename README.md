@@ -1,8 +1,8 @@
-# Reuters World News (2025-03-18)
+# Reuters World News (2025-03-19)
 
 ---
 
-- [0341~0341](pages/17-index.md)
+- [0341~0342](pages/17-index.md)
 - [0321~0340](pages/16-index.md)
 - [0301~0320](pages/15-index.md)
 - [0281~0300](pages/14-index.md)
